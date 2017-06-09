@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Wed Mar 29 10:07:09 KST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-015b-179a-203c-00002bc606c0 
+on database directory memory:D:\apache-camel-2.18.2\examples\camel-example-sql-blueprint\orders with class loader java.net.URLClassLoader@3f80c3ae 
+Loaded from file:/C:/Users/elink/.m2/repository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=D:\apache-camel-2.18.2\examples\camel-example-sql-blueprint
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Mar 29 10:07:22 KST 2017: Shutting down Derby engine
+----------------------------------------------------------------
+Wed Mar 29 10:07:22 KST 2017:
+Shutting down instance a816c00e-015b-179a-203c-00002bc606c0 on database directory memory:D:\apache-camel-2.18.2\examples\camel-example-sql-blueprint\orders with class loader java.net.URLClassLoader@3f80c3ae 
+----------------------------------------------------------------
